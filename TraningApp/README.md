@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## prerequisite
+1.Download nodejs
+2.npm install -g @angular/cli 
+
+
+## commands used in project
+
+1.ng new TraningApp -->creating new project.
+2.ng serve --open -->to run the project.
+3.npm install --save bootstrap -->Installing bootstrap for project.
+4.ng add @angular/material -->Installing Angular Material.
